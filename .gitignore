@@ -36,3 +36,5 @@ test/coverage
 
 # Jupyter Notebook Checkpoints
 .ipynb_checkpoints
+
+stock-predictor.joblib
